@@ -1,6 +1,12 @@
 This is `text line`
-`
+
 This is text para
+```
+ Start of paragraph, 
+testing the lines in paragraph
+
+```
+
 This is bullet
 This is sub-bullet
 This is bold
