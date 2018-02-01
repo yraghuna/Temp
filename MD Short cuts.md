@@ -25,5 +25,6 @@ This is HTML link insert
 
 This is table for 2 columns
 
-|heading|heading|
-|-------|------|
+|heading1|heading2|
+|--------|--------|
+|data|data|    
