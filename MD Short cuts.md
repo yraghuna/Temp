@@ -21,6 +21,6 @@ This is image insert
 ![image name if not present](https://github.com/userlerueda/LTRCLD-1451/blob/master/images/neutron-2.png)
 
 This is HTML link insert
-[image name if not present]((https://github.com/userlerueda/LTRCLD-1451/blob/master/images/neutron-2.png))
+[image name if not present](https://github.com/userlerueda/LTRCLD-1451/blob/master/images/neutron-2.png)
 
 This is table
