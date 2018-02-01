@@ -28,3 +28,8 @@ This is table for 2 columns
 |heading1|heading2|
 |--------|--------|
 |data|data|    
+
+Sections between 2 sections
+
+---
+
